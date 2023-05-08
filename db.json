@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "name": "Miss Carlton Morar",
+      "id": 3
+    },
+    {
+      "name": "Dr. Sheryl Daniel",
+      "id": 4
+    },
+    {
+      "name": "Jeannette Wilderman",
+      "id": 5
+    },
+    {
+      "name": "Mrs. Olive Kohler",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Practical Metal Hat",
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "title": "Luxurious Steel Shirt",
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "title": "Oriental Rubber Fish",
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "title": "Practical Rubber Shoes",
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "title": "Oriental Rubber Hat",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "title": "Electronic Frozen Mouse",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "title": "Handmade Granite Gloves",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Frozen Bacon",
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "title": "Bespoke Soft Keyboard",
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "title": "Elegant Bronze Gloves",
+      "id": 16
+    },
+    {
+      "userId": 6,
+      "title": "Incredible Granite Cheese",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68757",
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54100",
+      "id": 2
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=76896",
+      "id": 3
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55209",
+      "id": 6
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=77098",
+      "id": 7
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11690",
+      "id": 9
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13907",
+      "id": 10
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87329",
+      "id": 17
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69002",
+      "id": 18
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87481",
+      "id": 19
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=59516",
+      "id": 20
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=45883",
+      "id": 21
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=35891",
+      "id": 22
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58859",
+      "id": 23
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65713",
+      "id": 24
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=10497",
+      "id": 25
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39059",
+      "id": 26
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=59174",
+      "id": 27
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97963",
+      "id": 28
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80032",
+      "id": 29
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14231",
+      "id": 30
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7780",
+      "id": 31
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15311",
+      "id": 32
+    }
+  ]
+}
